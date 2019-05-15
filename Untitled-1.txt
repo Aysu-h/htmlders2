@@ -1,0 +1,6 @@
+<htlm>
+    <body>
+
+        <h1>pishik</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum tempore optio ut, vel consequuntur alias magnam obcaecati quaerat necessitatibus voluptatem delectus, maxime nobis ab perspiciatis, possimus sequi dolorum rem et!</p>
+          <img width="500" src="pishik.jpg">

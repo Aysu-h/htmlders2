@@ -1,0 +1,45 @@
+<htlm>
+    <body>
+
+        <h1>pishik</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum tempore optio ut, vel consequuntur alias magnam obcaecati quaerat necessitatibus voluptatem delectus, maxime nobis ab perspiciatis, possimus sequi dolorum rem et!</p>
+          <img width="500" src="pishik.jpg">
+          <br>
+         
+          <iframe width="50%" height="315" src="https://www.youtube.com/embed/RaLXDIJW3_M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <i><b>pishik</b></i>
+        <hr>
+        <ol type="A">
+            <li style="color:blue">Home</li>
+            <li style="color:red">Home</li>
+            <li style="color:blueviolet">class</li>
+            <li style="color:blueviolet;font-size: 44px">class</li>
+            <li style="color: yellow">home</li>
+        </ol>
+        <video width="320" height="240"controls>
+            <source src="">
+            </video>
+<br>
+           <a href="https://www.youtube.com/watch?v=RaLXDIJW3_M">youtub</a>
+<br>
+
+<span style="width:200px;float: left">
+
+    Email
+    <br>
+        <input type="text" placeholder="Email"> 
+</span>
+  
+
+
+ <span style="width:300px;float: left">
+     Password   
+     <br>
+        <input type="password" placeholder="Shifre">
+
+   </span>
+   
+
+
+</htlm>
+© 2019 GitHub, Inc.
